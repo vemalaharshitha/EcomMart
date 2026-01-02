@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website (Amazon-Style)
+# 🛒 E-Commerce Website 
 
 A fully functional **Amazon-style E-Commerce Website** built using **HTML, CSS, and JavaScript**.  
 This project focuses on **modern UI/UX**, smooth navigation, and a **real working cart system** using `localStorage`.
@@ -37,5 +37,6 @@ This project focuses on **modern UI/UX**, smooth navigation, and a **real workin
 
 > ❌ No backend  
 > ❌ No frameworks (No Bootstrap / Tailwind)
+
 
 
